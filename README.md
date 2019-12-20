@@ -17,7 +17,6 @@ make html
 
 ## textlintの実行方法
 
-
 ### 環境構築
 
 #### Node.js
@@ -66,7 +65,7 @@ textlint .textlint/test/test.rst
 ### 設定ファイル
 
 | ファイル               | 説明           |
-|------------------------|----------------|
+| ---------------------- | -------------- |
 | .textlintrc            | textlintの設定 |
 | .textlint/conf/prh.yml | 辞書的なやつ   |
 
